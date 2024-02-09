@@ -12,5 +12,7 @@ Por padrão o servidor vai estar configurado para o ip 192.168.0.127, pois esse 
 
 É utilizado alguns ícones do "Símbolos SF", talvez seja necessário o download do programa do mac
 
+
 *Lembrete*
+
 O app ainda está cheio de bugs, por favor paciência
